@@ -1,0 +1,1 @@
+This project aims to assess the quality of wine using a machine learning model called Random Forest Classifier. By analyzing various features of the wine, the model predicts the quality rating, providing a valuable tool for wine producers and enthusiasts to evaluate their products.
